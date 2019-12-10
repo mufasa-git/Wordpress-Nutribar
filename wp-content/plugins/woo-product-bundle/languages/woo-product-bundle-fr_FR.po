@@ -1,0 +1,495 @@
+# Copyright (C) 2017 WooCommerce Product Bundles
+# This file is distributed under the same license as the WooCommerce Product Bundles package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Bundles\n"
+"POT-Creation-Date: 2018-10-27 11:02+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: verturin <verturin@live.fr>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: index.php:65 index.php:77 index.php:718 index.php:738
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: index.php:67 index.php:723
+msgid "Select options"
+msgstr "Sélectionner les options"
+
+#: index.php:70 index.php:728
+msgid "Read more"
+msgstr "Continuer"
+
+#: index.php:425
+msgid "Once Every 5 Minutes"
+msgstr "Tous les 5 minutes"
+
+#: index.php:538 index.php:549
+msgid "Woo Product Bundles"
+msgstr "Woo Product Bundles"
+
+#: index.php:552
+#, php-format
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Merci d'utiliser notre plugin! Si vous êtes satisfait, s'il vous plaît "
+"récompenser un total de cinq étoiles %s l'ébaluation."
+
+#: index.php:555
+msgid "Reviews"
+msgstr "Avis"
+
+#: index.php:557
+msgid "Changelogs"
+msgstr "Journal des modifications"
+
+#: index.php:559
+msgid "Discussion"
+msgstr "Discussion"
+
+#: index.php:565
+msgid "How to use?"
+msgstr "Comment utiliser?"
+
+#: index.php:567 index.php:1048
+msgid "Settings"
+msgstr "Paramètres"
+
+#: index.php:569
+msgid "Tools"
+msgstr "Outils"
+
+#: index.php:571 index.php:1049
+msgid "Premium Version"
+msgstr "Premium Version"
+
+#: index.php:579
+msgid ""
+"When creating the product, please choose product data is \"Smart Bundle\" "
+"then you can see the search field to start search and add products to the "
+"bundle."
+msgstr ""
+"Lors de la création du produit, merci de choisir \"Smart Bundle\" dans les "
+"données du produit, vous pouvez alors voir le champ de recherche pour "
+"commencer la recherche et ajouter des produits à l'ensemble."
+
+#: index.php:591
+msgid "General"
+msgstr "Général"
+
+#: index.php:595
+msgid "Show thumbnail"
+msgstr "Afficher la miniature"
+
+#: index.php:600 index.php:615 index.php:630 index.php:687 index.php:752
+#: index.php:767 index.php:801 index.php:832 index.php:847 index.php:863
+#: index.php:879
+msgid "Yes"
+msgstr "Yes"
+
+#: index.php:604 index.php:619 index.php:634 index.php:657 index.php:676
+#: index.php:691 index.php:756 index.php:771 index.php:790 index.php:805
+#: index.php:836 index.php:851 index.php:867 index.php:883
+msgid "No"
+msgstr "No"
+
+#: index.php:610
+msgid "Show quantity"
+msgstr "Afficher la quantité"
+
+#: index.php:625
+msgid "Show short description"
+msgstr "Afficher la courte description"
+
+#: index.php:640
+msgid "Show price"
+msgstr "Afficher le prix"
+
+#: index.php:645
+msgid "Price"
+msgstr "Prix"
+
+#: index.php:649
+msgid "Price HTML"
+msgstr "Prix HTML"
+
+#: index.php:653
+msgid "Subtotal"
+msgstr "Sous-total"
+
+#: index.php:663
+msgid "Link to bundled product"
+msgstr "Lien vers le produit groupé"
+
+#: index.php:668
+msgid "Yes, open in the same tab"
+msgstr "Oui, ouvrir dans le même onglet"
+
+#: index.php:672
+msgid "Yes, open in the new tab"
+msgstr "Oui, ouvrir dans le nouvel onglet"
+
+#: index.php:682
+msgid "Change image"
+msgstr "Changer l’image"
+
+#: index.php:695
+msgid "Change the main image when choosing the variation of bundled products."
+msgstr ""
+"Changez l'image principale lors du choix de la variation des produits "
+"groupés."
+
+#: index.php:700
+msgid "Bundle price text"
+msgstr "Texte du prix groupé"
+
+#: index.php:703
+msgid "Bundle price:"
+msgstr "Prix du pack:"
+
+#: index.php:705
+msgid "The text before price when choosing variation in the bundle."
+msgstr "Le texte avant le prix lors du choix de la variation dans le pack."
+
+#: index.php:711
+msgid "\"Add to Cart\" button labels"
+msgstr "Étiquettes de bouton \"ajouter au panier\""
+
+#: index.php:715
+msgid "Archive/shop page"
+msgstr "Archive/page Shop"
+
+#: index.php:720
+msgid "For purchasable bundle."
+msgstr "Pour achetable bundle."
+
+#: index.php:725
+msgid "For purchasable bundle and has variable product(s)."
+msgstr "Pour achetable Bundle et a produit (s) variable (s)."
+
+#: index.php:730
+msgid "For unpurchasable bundle."
+msgstr "Pour achetable bundle."
+
+#: index.php:735
+msgid "Single product page"
+msgstr ""
+
+#: index.php:743
+msgid "Cart & Checkout"
+msgstr "Panier et Commande"
+
+#: index.php:747
+msgid "Auto calculate the weight"
+msgstr "Calcul automatique du poids"
+
+#: index.php:762
+msgid "Hide bundle name before bundled products"
+msgstr "Masquer le nom du groupe avant les produits groupés"
+
+#: index.php:777
+#, fuzzy
+#| msgid "Hide products in the bundle on cart & checkout page"
+msgid "Hide bundled products on cart & checkout page"
+msgstr ""
+"Masquer les produits dans l'offre groupée sur le panier et la page de "
+"paiement"
+
+#: index.php:782
+msgid "Yes, just show the main product"
+msgstr "Oui, il suffit de montrer le produit principal"
+
+#: index.php:786
+msgid "Yes, but show bundled product names under the main product"
+msgstr ""
+"Oui, mais afficher les noms de produits groupés sous le produit principal"
+
+#: index.php:796
+msgid "Hide bundled products on mini-cart"
+msgstr "Masquer les produits groupés sur le mini-panier"
+
+#: index.php:809
+msgid "Hide bundled products, just show the main product on mini-cart."
+msgstr ""
+"Masquer les produits groupés, il suffit de montrer le produit principal sur "
+"le mini-panier."
+
+#: index.php:815 index.php:1573
+msgid "Search"
+msgstr "Chercher"
+
+#: index.php:819
+msgid "Search limit"
+msgstr "Limite de recherche"
+
+#: index.php:827
+msgid "Search by SKU"
+msgstr "Rechercher par code SKU"
+
+#: index.php:842
+msgid "Search exact"
+msgstr "Recherche exacte"
+
+#: index.php:854
+msgid "Match whole product title or content?"
+msgstr "Correspondre au titre ou au contenu du produit entier?"
+
+#: index.php:858
+msgid "Search sentence"
+msgstr "Phrase de recherche"
+
+#: index.php:870
+msgid "Do a phrase search?"
+msgstr "Faire une recherche de phrases?"
+
+#: index.php:874
+msgid "Accept same products"
+msgstr "Accepter les mêmes produits"
+
+#: index.php:886
+msgid "If yes, a product can be added many times."
+msgstr "Si oui, un produit peut être ajouté plusieurs fois."
+
+#: index.php:891
+msgid "Advance"
+msgstr "Avance"
+
+#: index.php:895
+msgid "Method"
+msgstr "Méthode"
+
+#: index.php:900
+msgid "SESSION"
+msgstr "Session"
+
+#: index.php:904
+msgid "COOKIE"
+msgstr "Cookie"
+
+#: index.php:907
+msgid ""
+"The method was used to save the product bundles data when buying. Please "
+"only try to switch this option when the default does not work."
+msgstr ""
+"La méthode a été utilisée pour enregistrer les données groupées de produits "
+"lors de l'achat. S'il vous plaît seulement essayer de changer cette option "
+"lorsque la valeur par défaut ne fonctionne pas."
+
+#: index.php:913
+msgid "Update Options"
+msgstr "Sauvegarder les Options"
+
+#: index.php:926
+msgid "Product bundles"
+msgstr "Paquet de produits"
+
+#: index.php:931
+msgid "View all product bundles"
+msgstr "Voir tous les forfaits de produits"
+
+#: index.php:938
+msgid "Update price"
+msgstr "Mettre à jour le tarif"
+
+#: index.php:944
+msgid "Updated!"
+msgstr "Mis à jour !"
+
+#: index.php:949 index.php:963
+msgid "Update price for all bundles"
+msgstr "Mise à jour du prix pour tous les forfaits"
+
+#: index.php:951
+msgid ""
+"The bundle price will be updated every 5 minutes automatically, you can "
+"click to update immediately."
+msgstr ""
+"Le prix du forfait sera mis à jour toutes les 5 minutes automatiquement, "
+"vous pouvez cliquer pour mettre à jour immédiatement."
+
+#: index.php:958
+msgid "Update price (AJAX)"
+msgstr "Prix de mise à jour (AJAX)"
+
+#: index.php:966
+msgid ""
+"Use this tool if your website has too many products. It will updates price "
+"for 100 products one time."
+msgstr ""
+"Utilisez cet outil si votre site Web a trop de produits. Il mettra à jour le "
+"prix pour 100 produits une fois."
+
+#: index.php:995
+msgid ""
+"Please select some product options before adding this bundle to the cart."
+msgstr ""
+"Veuillez sélectionner quelques options de produit avant d'ajouter ce paquet "
+"au panier."
+
+#: index.php:996
+msgid ""
+"Please choose at least one product before adding this bundle to the cart."
+msgstr ""
+"Veuillez choisir au moins un produit avant d'ajouter ce paquet au panier."
+
+#: index.php:997
+msgid ""
+"Please choose at least [min] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Veuillez choisir au moins [min] dans l'ensemble des produits avant d'ajouter "
+"ce paquet au panier."
+
+#: index.php:998
+msgid ""
+"Please choose maximum [max] in the whole products before adding this bundle "
+"to the cart."
+msgstr ""
+"Veuillez choisir maximum [max] dans l'ensemble des produits avant d'ajouter "
+"ce paquet au panier."
+
+#: index.php:1063
+msgid "Premium support"
+msgstr "Support premium"
+
+#: index.php:1230
+msgid "Have an error when adding this bundle to the cart."
+msgstr "Avoir une erreur lors de l'ajout de ce paquet dans le panier."
+
+#: index.php:1354 index.php:1377
+msgid "Bundled Products"
+msgstr "Prix du pack"
+
+#: index.php:1405
+#, php-format
+msgid "(bundled in %s)"
+msgstr "(groupé en %s)"
+
+#: index.php:1503
+#, php-format
+msgid "No results found for \"%s\""
+msgstr "Aucun résultat trouvé pour \"%s\""
+
+#: index.php:1545 index.php:1561
+msgid "Smart bundle"
+msgstr "Smart Bundle"
+
+#: index.php:1552
+msgid "Smart Bundle"
+msgstr "Smart Bundle"
+
+#: index.php:1575
+msgid "settings"
+msgstr "réglages"
+
+#: index.php:1580
+msgid "searching..."
+msgstr "recherche..."
+
+#: index.php:1582
+msgid "Type any keyword to search"
+msgstr "Tapez un mot-clé pour rechercher"
+
+#: index.php:1588
+msgid "Selected"
+msgstr "Choisir"
+
+#: index.php:1625
+msgid "Regular price"
+msgstr "Prix standard"
+
+#: index.php:1634
+#, php-format
+msgid ""
+"Disable auto calculate Regular price? If yes, %s click here to set Regular "
+"price %s"
+msgstr ""
+"Désactiver auto calculer le prix normal? Si oui, %s cliquez ici pour définir "
+"le prix normal %s"
+
+#: index.php:1638
+msgid "Sale price"
+msgstr "Prix promo"
+
+#: index.php:1643
+#, php-format
+msgid "of Regular price or %s click here to set Sale price %s"
+msgstr "de prix normal ou %s cliquez ici pour définir le prix de vente %s"
+
+#: index.php:1647
+msgid "Optional products"
+msgstr "Produits optionnels"
+
+#: index.php:1650
+msgid "Buyer can change the quantity of bundled products?"
+msgstr "Le texte après les produits groupés ?"
+
+#: index.php:1654
+msgid "Limit each item"
+msgstr "Limiter chaque élément"
+
+#: index.php:1666
+msgid "Limit whole items"
+msgstr "Limiter les éléments entiers"
+
+#: index.php:1679
+msgid "Before text"
+msgstr "Avant le texte"
+
+#: index.php:1683
+msgid "The text before bundled products"
+msgstr "Le texte avant les produits groupés"
+
+#: index.php:1688
+msgid "After text"
+msgstr "Apres le Texte"
+
+#: index.php:1692
+msgid "The text after bundled products"
+msgstr "Le texte après les produits groupés"
+
+#: index.php:1866
+msgid "Choose"
+msgstr "Choisir"
+
+#: index.php:1872
+msgid "Clear"
+msgstr "Effacer"
+
+#: index.php:1983
+msgid ""
+"WooCommerce Product Bundles require WooCommerce version 3.0.0 or greater."
+msgstr ""
+"Les bundles de produits WooCommerce requièrent WooCommerce version 3.0.0 ou "
+"supérieure."
+
+#~ msgid ""
+#~ "WooCommerce Product Bundles is a plugin help you bundle a few products "
+#~ "with pre-defined quantity, offer them at a discount and watch the sales "
+#~ "go up!"
+#~ msgstr ""
+#~ "WooCommerce Product Bundles est une extension pour vous aider à regrouper "
+#~ "quelques produits avec une quantité prédéfinie, les offrir à un prix "
+#~ "réduit et regarder les ventes augmenter!"
+
+#~ msgid ""
+#~ "Hide products in the bundle, just show the main product on the cart & "
+#~ "checkout page."
+#~ msgstr ""
+#~ "Masquer les produits de  l'offre groupée, montrez simplement le produit "
+#~ "principal sur la page de panier et de caisse."

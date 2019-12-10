@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Bundles\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-14 01:32+0000\n"
+"PO-Revision-Date: 2017-12-14 01:33+0000\n"
+"Last-Translator: WooClever <admin@local.woo>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: woo-product-bundle-premium/index.php:376
+msgid "Bundle price:"
+msgstr "Bundle-Preis:"
+
+#: woo-product-bundle-premium/index.php:58
+msgid "Add to cart"
+msgstr "In den Warenkorb"
+
+#: woo-product-bundle-premium/index.php:60
+msgid "Select options"
+msgstr "Optionen wählen"
+
+#: woo-product-bundle-premium/index.php:63
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: woo-product-bundle-premium/index.php:240,
+#: woo-product-bundle-premium/index.php:240,
+#: woo-product-bundle-premium/index.php:251
+msgid "Woo Product Bundles"
+msgstr "Woo Product Bundles"
+
+#: woo-product-bundle-premium/index.php:254
+msgid ""
+"WooCommerce Product Bundles is a plugin help you bundle a few products with "
+"pre-defined quantity, offer them at a discount and watch the sales go up!"
+msgstr ""
+"WooCommerce Product Bundles ist ein Plugin, mit dem du einige Produkte in "
+"einer vordefinierten Anzahl bündeln und sie zu einem ermäßigten Preis "
+"anzubieten kannst. Danach gehen deine Verkaufszahlen steil nach oben!"
+
+#: woo-product-bundle-premium/index.php:260
+msgid "How to use?"
+msgstr "So funktioniert es"
+
+#: woo-product-bundle-premium/index.php:262,
+#: woo-product-bundle-premium/index.php:450
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: woo-product-bundle-premium/index.php:264,
+#: woo-product-bundle-premium/index.php:451
+msgid "Support"
+msgstr "Support"
+
+#: woo-product-bundle-premium/index.php:270
+msgid ""
+"When creating the product, please choose product data is \"Smart Bundle\" "
+"then you can see the search field to start search and add products to the "
+"bundle."
+msgstr ""
+"Wenn Sie das Produkt erstellen, wählen Sie bitte die Produktdaten "
+"\"Intelligentes Bündel\", dann können Sie das Suchfeld sehen, um die Suche "
+"zu starten und Produkte zum bündel hinzuzufügen."
+
+#: woo-product-bundle-premium/index.php:280
+msgid "Show thumbnail"
+msgstr "Vorschaubild anzeigen"
+
+#: woo-product-bundle-premium/index.php:285,
+#: woo-product-bundle-premium/index.php:300,
+#: woo-product-bundle-premium/index.php:342,
+#: woo-product-bundle-premium/index.php:360
+msgid "Yes"
+msgstr "Ja"
+
+#: woo-product-bundle-premium/index.php:289,
+#: woo-product-bundle-premium/index.php:304,
+#: woo-product-bundle-premium/index.php:331,
+#: woo-product-bundle-premium/index.php:346,
+#: woo-product-bundle-premium/index.php:364
+msgid "No"
+msgstr "Nein"
+
+#: woo-product-bundle-premium/index.php:295
+msgid "Show quantity"
+msgstr "Anzahl (der verfügbaren Produkte) anzeigen"
+
+#: woo-product-bundle-premium/index.php:310
+msgid "Show price"
+msgstr "Preis anzeigen"
+
+#: woo-product-bundle-premium/index.php:315,
+#: woo-product-bundle-premium/index.php:820
+msgid "Regular price"
+msgstr "Regulärer Preis"
+
+#: woo-product-bundle-premium/index.php:319,
+#: woo-product-bundle-premium/index.php:833
+msgid "Sale price"
+msgstr "Verkaufspreis"
+
+#: woo-product-bundle-premium/index.php:323
+msgid "Price HTML"
+msgstr "HTML Preis"
+
+#: woo-product-bundle-premium/index.php:327
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: woo-product-bundle-premium/index.php:337
+msgid "Hide products in the bundle on cart & checkout page"
+msgstr ""
+"Blendet die Einzelprodukte im Bündel (Paket) im Warenkorb und auf der "
+"Checkout-Seite aus"
+
+#: woo-product-bundle-premium/index.php:350
+msgid ""
+"Hide products in the bundle, just show the main product on the cart & "
+"checkout page."
+msgstr ""
+"Blendet die Einzelprodukte des Pakets aus und zeigt nur das Bündel (Paket) "
+"im Warenkorb und auf der Checkout-Seite an."
+
+#: woo-product-bundle-premium/index.php:355
+msgid "Hide products in the bundle on mini-cart"
+msgstr ""
+"Blendet die Einzelprodukte des Bündels (Pakets) im kleinen Warenkorb aus"
+
+#: woo-product-bundle-premium/index.php:368
+msgid "Hide products in the bundle, just show the main product on mini-cart."
+msgstr ""
+"Blendet die Einzelprodukte des Pakets aus und zeigt nur das Bündel (Paket) "
+"im kleinen Warenkorb an."
+
+#: woo-product-bundle-premium/index.php:373
+msgid "Bundle price text"
+msgstr "Text für den Bundle-Preis"
+
+#: woo-product-bundle-premium/index.php:378
+msgid "The text before price when choosing variation in the bundle."
+msgstr "Der Text vor dem Preis, wenn du Variationen im Bündel (Paket) wählst."
+
+#: woo-product-bundle-premium/index.php:385
+msgid "Update Options"
+msgstr "Änderungen aktualisieren"
+
+#: woo-product-bundle-premium/index.php:409
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr ""
+"Bitte wählen Sie einige Produktoptionen, bevor Sie dieses Produkt zu Ihrem "
+"Warenkorb hinzufügen."
+
+#: woo-product-bundle-premium/index.php:643
+msgid "(bundled in %s)"
+msgstr "(gebündelt in% s)"
+
+#: woo-product-bundle-premium/index.php:743
+msgid "No results found for \"%s\""
+msgstr "Keine Ergebnisse für \"% s\" gefunden"
+
+#: woo-product-bundle-premium/index.php:749,
+#: woo-product-bundle-premium/index.php:756
+msgid "Smart Bundle"
+msgstr "Intelligentes Bündel"
+
+#: woo-product-bundle-premium/index.php:771
+msgid "Search"
+msgstr "Suche"
+
+#: woo-product-bundle-premium/index.php:775
+msgid "searching..."
+msgstr "suche..."
+
+#: woo-product-bundle-premium/index.php:777
+msgid "Type any keyword to search"
+msgstr "Tippe ein Schlüsselwort zur Suche ein"
+
+#: woo-product-bundle-premium/index.php:783
+msgid "Selected"
+msgstr "Ausgewählte Produkte"
+
+#: woo-product-bundle-premium/index.php:829
+msgid ""
+"Disable auto calculate regular price? If yes, %s click here to set regular "
+"price %s"
+msgstr ""
+"Willst die automatische Berechnung des regulären Preises deaktivieren? Wenn "
+"ja, %s dann klicke bitte hier, um den regulären Preis festzulegen %s"
+
+#: woo-product-bundle-premium/index.php:837
+msgid "of Regular price or %s click here to set sale price %s"
+msgstr ""
+"des regulären Preises oder %s klicke hier, um den Verkaufspreis festzulegen "
+"%s"
+
+#: woo-product-bundle-premium/index.php:841
+msgid "Before text"
+msgstr "Text davor"
+
+#: woo-product-bundle-premium/index.php:846
+msgid "The text before bundled products"
+msgstr "Der Text vor den gebündelten Produkten"
+
+#: woo-product-bundle-premium/index.php:851
+msgid "After text"
+msgstr "Text danach"
+
+#: woo-product-bundle-premium/index.php:856
+msgid "The text after bundled products"
+msgstr "Der Text nach den gebündelten Produkten"
+
+#: woo-product-bundle-premium/index.php:1079
+msgid "Clear"
+msgstr "Klar"

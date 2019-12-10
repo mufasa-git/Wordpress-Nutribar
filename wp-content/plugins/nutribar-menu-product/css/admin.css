@@ -1,0 +1,41 @@
+#menu_product_options h3{
+  margin-left: 15px;
+}
+.order_page_subproduct_list{
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+.order_page_subproduct_item{
+  background: #f8f8f8;
+  padding: 5px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.order_page_subproduct_item img{
+  width: 38px;
+  margin-right: 10px;
+}
+.nutribar_report_date{
+  font-size: 14px;
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-bottom: none;
+  padding: 8px 10px;
+  margin-top: 15px;
+}
+@media print{
+  #adminmenuback,
+  #adminmenuwrap,
+  #wpfooter{
+    display: none;
+  }
+  #wpcontent{
+    margin: 0;
+  }
+  html.wp-toolbar{
+    padding: 0;
+  }
+}
